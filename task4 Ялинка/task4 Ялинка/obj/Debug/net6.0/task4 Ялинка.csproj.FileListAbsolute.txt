@@ -1,0 +1,15 @@
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.csproj.AssemblyReference.cache
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.AssemblyInfoInputs.cache
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.AssemblyInfo.cs
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\bin\Debug\net6.0\task4 Ялинка.exe
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\bin\Debug\net6.0\task4 Ялинка.deps.json
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\bin\Debug\net6.0\task4 Ялинка.runtimeconfig.json
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\bin\Debug\net6.0\task4 Ялинка.dll
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\bin\Debug\net6.0\task4 Ялинка.pdb
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.dll
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\refint\task4 Ялинка.dll
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.pdb
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\task4 Ялинка.genruntimeconfig.cache
+D:\прога 2 курс\дз7\task4 Ялинка\task4 Ялинка\obj\Debug\net6.0\ref\task4 Ялинка.dll

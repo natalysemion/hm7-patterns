@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "завдання1 Абстрактна фабрика/1.0.0": {
+        "runtime": {
+          "завдання1 Абстрактна фабрика.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "завдання1 Абстрактна фабрика/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

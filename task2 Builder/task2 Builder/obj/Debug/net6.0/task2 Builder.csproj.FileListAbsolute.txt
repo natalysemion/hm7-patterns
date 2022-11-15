@@ -1,0 +1,15 @@
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\bin\Debug\net6.0\task2 Builder.exe
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\bin\Debug\net6.0\task2 Builder.deps.json
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\bin\Debug\net6.0\task2 Builder.runtimeconfig.json
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\bin\Debug\net6.0\task2 Builder.dll
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\bin\Debug\net6.0\task2 Builder.pdb
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.csproj.AssemblyReference.cache
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.AssemblyInfoInputs.cache
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.AssemblyInfo.cs
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.dll
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\refint\task2 Builder.dll
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.pdb
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\task2 Builder.genruntimeconfig.cache
+D:\прога 2 курс\дз7\task2 Builder\task2 Builder\obj\Debug\net6.0\ref\task2 Builder.dll

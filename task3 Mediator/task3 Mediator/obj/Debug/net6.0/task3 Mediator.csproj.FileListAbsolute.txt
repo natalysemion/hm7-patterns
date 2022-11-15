@@ -1,0 +1,15 @@
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\bin\Debug\net6.0\task3 Mediator.exe
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\bin\Debug\net6.0\task3 Mediator.deps.json
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\bin\Debug\net6.0\task3 Mediator.runtimeconfig.json
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\bin\Debug\net6.0\task3 Mediator.dll
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\bin\Debug\net6.0\task3 Mediator.pdb
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.csproj.AssemblyReference.cache
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.AssemblyInfoInputs.cache
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.AssemblyInfo.cs
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.dll
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\refint\task3 Mediator.dll
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.pdb
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\task3 Mediator.genruntimeconfig.cache
+D:\прога 2 курс\дз7\task3 Mediator\task3 Mediator\obj\Debug\net6.0\ref\task3 Mediator.dll
