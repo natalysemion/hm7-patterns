@@ -1,0 +1,15 @@
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.csproj.AssemblyReference.cache
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.AssemblyInfoInputs.cache
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.AssemblyInfo.cs
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\bin\Debug\net6.0\task6 Factory Method.exe
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\bin\Debug\net6.0\task6 Factory Method.deps.json
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\bin\Debug\net6.0\task6 Factory Method.runtimeconfig.json
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\bin\Debug\net6.0\task6 Factory Method.dll
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\bin\Debug\net6.0\task6 Factory Method.pdb
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.dll
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\refint\task6 Factory Method.dll
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.pdb
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\task6 Factory Method.genruntimeconfig.cache
+D:\прога 2 курс\дз7\task6 Factory Method\task6 Factory Method\obj\Debug\net6.0\ref\task6 Factory Method.dll
