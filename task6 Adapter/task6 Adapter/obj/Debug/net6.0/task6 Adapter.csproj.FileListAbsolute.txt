@@ -1,0 +1,15 @@
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.csproj.AssemblyReference.cache
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.AssemblyInfoInputs.cache
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.AssemblyInfo.cs
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\bin\Debug\net6.0\task6 Adapter.exe
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\bin\Debug\net6.0\task6 Adapter.deps.json
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\bin\Debug\net6.0\task6 Adapter.runtimeconfig.json
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\bin\Debug\net6.0\task6 Adapter.dll
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\bin\Debug\net6.0\task6 Adapter.pdb
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.dll
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\refint\task6 Adapter.dll
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.pdb
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\task6 Adapter.genruntimeconfig.cache
+D:\прога 2 курс\дз7\task6 Adapter\task6 Adapter\obj\Debug\net6.0\ref\task6 Adapter.dll
