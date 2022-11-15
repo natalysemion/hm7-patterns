@@ -1,0 +1,15 @@
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\bin\Debug\net6.0\task5 Prototype.exe
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\bin\Debug\net6.0\task5 Prototype.deps.json
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\bin\Debug\net6.0\task5 Prototype.runtimeconfig.json
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\bin\Debug\net6.0\task5 Prototype.dll
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\bin\Debug\net6.0\task5 Prototype.pdb
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.csproj.AssemblyReference.cache
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.AssemblyInfoInputs.cache
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.AssemblyInfo.cs
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.dll
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\refint\task5 Prototype.dll
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.pdb
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\task5 Prototype.genruntimeconfig.cache
+D:\прога 2 курс\дз7\task5 Prototype\task5 Prototype\obj\Debug\net6.0\ref\task5 Prototype.dll
